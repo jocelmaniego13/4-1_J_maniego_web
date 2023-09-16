@@ -1,0 +1,24 @@
+{
+  "name": "4-1_j_maniego_web",
+  "version": "1.0.0",
+  "description": "This is an example of a fullstack web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jocelmaniego13/4-1_J_maniego_web.git"
+  },
+  "author": "jocel anne monic maniego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jocelmaniego13/4-1_J_maniego_web/issues"
+  },
+  "homepage": "https://github.com/jocelmaniego13/4-1_J_maniego_web#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
